@@ -1,0 +1,104 @@
+Enter roll no : 
+01
+Enter Name : 
+Raju
+Enter Phone no : 
+7989098989
+Enter age : 
+19
+Enter CGPA : 
+8.1
+Enter roll no : 
+02
+Enter Name : 
+Anu
+Enter Phone no : 
+9290939898
+Enter age : 
+20
+Enter CGPA : 
+8.9
+Enter roll no : 
+03
+Enter Name : 
+Shiw
+Enter Phone no : 
+8984948
+Enter age : 
+20
+Enter CGPA : 
+8.2
+Enter roll no : 
+04
+Enter Name : 
+Abhi
+Enter Phone no : 
+8938374
+Enter age : 
+20
+Enter CGPA : 
+9.0
+Enter roll no : 
+05 
+Enter Name : 
+Jain
+Enter Phone no : 
+7473838333
+Enter age : 
+20
+Enter CGPA : 
+9.1
+Enter roll no : 
+06
+Enter Name : 
+Souh
+Enter Phone no : 
+7306287273 
+Enter age : 
+20
+Enter CGPA : 
+9.4
+Enter roll no : 
+07
+Enter Name : 
+Rahul
+Enter Phone no : 
+8476373789
+Enter age : 
+20
+Enter CGPA : 
+8.9
+Enter roll no : 
+08
+Enter Name : 
+Colu 
+Enter Phone no : 
+9404958674
+Enter age : 
+20
+Enter CGPA : 
+7.9
+Enter roll no : 
+09
+Enter Name : 
+Akash
+Enter Phone no : 
+69387565864
+Enter age : 
+20
+Enter CGPA : 
+8.2
+Enter roll no : 
+10
+Enter Name : 
+Abin
+Enter Phone no : 
+7675747938
+Enter age : 
+20
+Enter CGPA : 
+8.3
+Data are:- 
+Name of the student with highest CGPA : Souh
+Phone no. of Anu : 9290939898
+Roll no. of youngest student : 1
