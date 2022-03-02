@@ -6,7 +6,7 @@ import java.util.*;
        {
          for(int i=1;i<100;i++)
            if(i%2!=0)
-            System.out.println(i);
+            System.out.print(i+" ");
        } 
   }
   class thread2 extends Thread
@@ -16,7 +16,7 @@ import java.util.*;
        {
          for(int i=1;i<100;i++)
            if(i%2==0)
-            System.out.println(i);
+            System.out.print(i+" ");
        } 
   }
 class oddneven
@@ -34,7 +34,7 @@ class oddneven
            System.out.println(e);
          }
              
-    System.out.println("the even numbers are:");
+    System.out.println("\n the even numbers are:");
      t2.start();
     }
 }
