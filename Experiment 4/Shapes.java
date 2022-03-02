@@ -23,7 +23,7 @@
   {
       void numberOfSides()
       {
-          System.out.println("Traingle contains 6 sides.");
+          System.out.println("Hexagon contains 6 sides.");
       }
   }
   public class Shapes
